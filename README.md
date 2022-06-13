@@ -1,2 +1,3 @@
-# imperativ-handle-hook
+# imperative-handle-hook
 React useImperativeHandle hook example
+
